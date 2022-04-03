@@ -405,7 +405,7 @@ header {
 
     width: 100%;
     height: 100vh;
-    background: url("/image/sec.jpg") center no-repeat;
+    background: url("pdd/image/sec.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
