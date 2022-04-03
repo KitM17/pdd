@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 header {
     width: 100%;
     height: 100vh;
-    background: url("pdd/image/intro.jpg") center no-repeat;
+    background: url("/pdd/image/intro.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -405,7 +405,7 @@ header {
 
     width: 100%;
     height: 100vh;
-    background: url("pdd/image/sec.jpg") center no-repeat;
+    background: url("/pdd/image/sec.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
